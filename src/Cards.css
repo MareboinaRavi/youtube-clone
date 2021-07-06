@@ -1,0 +1,17 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 15px 15px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". . . ."
+    ". . . ."
+    ". . . .";
+  margin-right: 20px;
+}
+.ll {
+  position: absolute;
+  left: 100px;
+  top: 80px;
+}

@@ -1,0 +1,43 @@
+.imgg {
+  width: 100%;
+}
+.im {
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+  margin-top: 5px;
+  margin-left: 2px;
+}
+.show {
+  display: flex;
+  justify-content: center;
+}
+.mm {
+  display: flex;
+}
+.nn {
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 90px;
+  margin-top: 6px;
+  margin-left: 4px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+}
+.ligth {
+  color: #606060;
+}
+.a {
+  position: relative;
+  top: -70px;
+  left: 230px;
+  color: white;
+  background-color: black;
+  border-radius: 2px;
+  /* width: 100px; */
+}
+.dot {
+  font-size: 20px !important;
+  margin-bottom: 10px !important;
+}
